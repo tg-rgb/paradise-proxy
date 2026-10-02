@@ -1,5 +1,5 @@
 services:
   - type: web
-    name: edu
+    name: paradise-proxy
     env: docker
     plan: free
